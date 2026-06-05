@@ -115,7 +115,7 @@ attribution is guaranteed even if the model omits it.
 | 2 | Is the UCI career center worth using for data science internships? | Mixed reviews, Career Pathways mock interviews mentioned as useful | Declined to answer — said not enough information in documents | Partially relevant | Inaccurate |
 | 3 | Does GPA matter when applying to internships as a UCI CS or DS student? | GPA matters less than experience, 3.0 cutoff common | GPA is not the only factor, anything above 3.0 is good, technical skills prioritized | Relevant | Accurate |
 | 4 | What do students say about Stephan Mandt and CS 178 for ML preparation? | Generous grading, math heavy lectures, solid ML foundation | Mandt is caring, responsive, provides resources, highly recommended for ML | Relevant | Accurate |
-| 5 | How does the UCI quarter system affect internship recruiting timelines? | Quarter system misaligns with recruiting cycles, finals conflict with start dates | Internships start in May/June aligning with semester system, UCI students still have coursework left 
+| 5 | How does the UCI quarter system affect internship recruiting timelines? | Quarter system misaligns with recruiting cycles, finals conflict with start dates | Internships start in May/June aligning with semester system, UCI students still have coursework left | Relevant | Accurate |
 
 **Retrieval quality:** Relevant 
 **Response accuracy:** Accurate 
