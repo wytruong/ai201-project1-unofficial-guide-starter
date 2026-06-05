@@ -177,8 +177,8 @@ effectively since I could paste specific sections instead of explaining
 everything from scratch each time.
 
 
-**One way your implementation diverged from the spec, and why:** The spec anticipated clean retrieval with distance scores below 0.5, but actual distances came back between 0.9 and 1.1. This happened because the Reddit documents were noisier than expected after manual copy-paste collection, containing leftover UI text and ad fragments that diluted the semantic signal. I addressed this by adding a skip_phrases filter to the clean_text function, which reduced noise but did not fully resolve the high distance scores. In a future iteration I would manually clean each document more thoroughly before chunking.
----
+**One way your implementation diverged from the spec, and why:** 
+The spec anticipated clean retrieval with distance scores below 0.5, but actual distances came back between 0.9 and 1.1. This happened because the Reddit documents were noisier than expected after manual copy-paste collection, containing leftover UI text and ad fragments that diluted the semantic signal. I addressed this by adding a skip_phrases filter to the clean_text function, which reduced noise but did not fully resolve the high distance scores. In a future iteration I would manually clean each document more thoroughly before chunking.
 
 ## AI Usage
 
